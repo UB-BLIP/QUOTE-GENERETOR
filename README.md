@@ -1,1 +1,1 @@
-"# Quote-Generetor" 
+# Quote-Generetor
